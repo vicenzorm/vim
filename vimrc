@@ -1,0 +1,23 @@
+filetype plugin indent on
+set nocompatible
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set number
+set relativenumber
+set smartindent
+set wildmenu
+set showmatch
+set backspace=indent,eol,start
+set termguicolors
+set path+=**
+set undofile
+set signcolumn=yes
+set cursorline
+set incsearch   
+set hlsearch   
+set ignorecase
+set smartcase
+syntax on
+colorscheme retrobox
